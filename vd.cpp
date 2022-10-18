@@ -2,7 +2,7 @@
 using namespace std;
 int n,a[200001];
 void foo(){
-	
+	// hello
 }
 void solve(){
 	cin>>n;
