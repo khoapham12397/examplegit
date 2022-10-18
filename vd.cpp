@@ -5,11 +5,11 @@ void solve(){
 	cin>>n;
 	for(int i=0;i<n;i++) cin>>a[i];
 	
-}// neu ma code trong nay co ve cung co the duoc 
+}
+// neu ma code trong nay co ve cung co the duoc 
 // da tung co nhung luc code rat nhieu nen cai nay thi co ve la don gian:
 
 int main(){
 	cout << "hello world"<<endl;
-	cout <<"something"<<endl;
 	return 0;
 }
